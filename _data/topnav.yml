@@ -18,7 +18,14 @@ topnav:
       url: /news
     - title: Privacy Policy
       url: /news
-     
+    - title: Support/ Contact Us
+      url: /news
+    - title: 
+      external_url: https://facebook.com
+      class: social fab fa-facebook-f
+    - title: 
+      external_url: https://twitter.com
+      class: social fab fa-twitter
 
 
 # Copyright 2021 Google LLC
